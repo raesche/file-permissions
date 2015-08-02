@@ -1,6 +1,6 @@
 ﻿<?php
 
-class FilePermissionBehavior extends Behavior
+class FilePermissionXXXGagaga extends Behavior
 {
   // default parameters value
   protected $parameters = array(
