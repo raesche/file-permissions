@@ -1,9 +1,7 @@
 {
   "name": "raesche/file-permissions",
   "autoload": {
-      "psr-0" : {
-        "Raesche\\FilePermissions" : "src"
-      }
+      "classmap": ["src/"]
   },
   "type" : "propel-behavior",
   "extra": {
