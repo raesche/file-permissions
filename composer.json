@@ -6,6 +6,6 @@
   "type" : "propel-behavior",
   "extra": {
       "name": "file-permissions",
-      "class": "FilePermissionBehavior"
+      "class": "\\raesche\\file-permissions\\src\\FilePermissionBehavior"
   }
 }
