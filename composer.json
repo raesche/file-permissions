@@ -5,7 +5,7 @@
   },
   "type" : "propel-behavior",
   "extra": {
-      "name": "file_permission",
+      "name": "file-permissions",
       "class": "FilePermissionBehavior"
   }
 }
